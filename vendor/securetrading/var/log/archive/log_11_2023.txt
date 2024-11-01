@@ -1,0 +1,192 @@
+30-11-2023 10:01:32 UTC - DEBUG - A059fqruy - Setting requestreference.
+30-11-2023 10:01:32 UTC - DEBUG - A059fqruy - Setting requesttypedescriptions.
+30-11-2023 10:01:32 UTC - DEBUG - A059fqruy - Setting filter.
+30-11-2023 10:01:32 UTC - DEBUG - A059fqruy - Setting updates.
+30-11-2023 10:01:32 UTC - INFO - A059fqruy - Starting request.
+30-11-2023 10:01:32 UTC - DEBUG - A059fqruy - Starting encoding.
+30-11-2023 10:01:32 UTC - DEBUG - A059fqruy - Instance of \Securetrading\Stpp\JsonInterface\Request detected.
+30-11-2023 10:01:32 UTC - DEBUG - A059fqruy - Finished encoding.
+30-11-2023 10:01:32 UTC - INFO - A059fqruy - Beginning HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 10:01:33 UTC - INFO - A059fqruy - Finished HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 10:01:33 UTC - DEBUG - A059fqruy - Starting decoding.
+30-11-2023 10:01:33 UTC - DEBUG - A059fqruy - Setting requestreference.
+30-11-2023 10:01:33 UTC - DEBUG - A059fqruy - Setting version.
+30-11-2023 10:01:33 UTC - DEBUG - A059fqruy - Setting responses.
+30-11-2023 10:01:33 UTC - DEBUG - A059fqruy - Finished decoding.
+30-11-2023 10:01:33 UTC - INFO - A059fqruy - Finished request.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting requestreference.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting currencyiso3a.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting requesttypedescription.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting accounttypedescription.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting orderreference.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting sitereference.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting baseamount.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting paymenttypedescription.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting returnurl.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting cancelurl.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting paypallocale.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting paypaladdressoverride.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting paypalemail.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting settlestatus.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting settleduedate.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting customfield4.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting customfield5.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting billingfirstname.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting billinglastname.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting billingpremise.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting billingtown.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting billingpostcode.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting billingcountryiso2a.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting billingemail.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Setting billingtelephone.
+30-11-2023 12:19:14 UTC - INFO - A28abrtux - Starting request.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Starting encoding.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Instance of \Securetrading\Stpp\JsonInterface\Request detected.
+30-11-2023 12:19:14 UTC - DEBUG - A28abrtux - Finished encoding.
+30-11-2023 12:19:14 UTC - INFO - A28abrtux - Beginning HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 12:19:15 UTC - INFO - A28abrtux - Finished HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 12:19:15 UTC - DEBUG - A28abrtux - Starting decoding.
+30-11-2023 12:19:15 UTC - DEBUG - A28abrtux - Setting requestreference.
+30-11-2023 12:19:15 UTC - DEBUG - A28abrtux - Setting version.
+30-11-2023 12:19:15 UTC - DEBUG - A28abrtux - Setting responses.
+30-11-2023 12:19:15 UTC - DEBUG - A28abrtux - Finished decoding.
+30-11-2023 12:19:15 UTC - INFO - A28abrtux - Finished request.
+30-11-2023 12:19:28 UTC - DEBUG - A026hmnqx - Setting requestreference.
+30-11-2023 12:19:28 UTC - DEBUG - A026hmnqx - Setting sitereference.
+30-11-2023 12:19:28 UTC - DEBUG - A026hmnqx - Setting requesttypedescriptions.
+30-11-2023 12:19:28 UTC - DEBUG - A026hmnqx - Setting parenttransactionreference.
+30-11-2023 12:19:28 UTC - DEBUG - A026hmnqx - Setting paymenttypedescription.
+30-11-2023 12:19:28 UTC - DEBUG - A026hmnqx - Setting paypaladdressoverride.
+30-11-2023 12:19:28 UTC - INFO - A026hmnqx - Starting request.
+30-11-2023 12:19:28 UTC - DEBUG - A026hmnqx - Starting encoding.
+30-11-2023 12:19:28 UTC - DEBUG - A026hmnqx - Instance of \Securetrading\Stpp\JsonInterface\Request detected.
+30-11-2023 12:19:28 UTC - DEBUG - A026hmnqx - Finished encoding.
+30-11-2023 12:19:28 UTC - INFO - A026hmnqx - Beginning HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 12:19:29 UTC - INFO - A026hmnqx - Finished HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 12:19:29 UTC - DEBUG - A026hmnqx - Starting decoding.
+30-11-2023 12:19:29 UTC - DEBUG - A026hmnqx - Setting requestreference.
+30-11-2023 12:19:29 UTC - DEBUG - A026hmnqx - Setting version.
+30-11-2023 12:19:29 UTC - DEBUG - A026hmnqx - Setting responses.
+30-11-2023 12:19:29 UTC - DEBUG - A026hmnqx - Finished decoding.
+30-11-2023 12:19:29 UTC - INFO - A026hmnqx - Finished request.
+30-11-2023 12:24:03 UTC - DEBUG - A04aefpuv - Setting requestreference.
+30-11-2023 12:24:03 UTC - DEBUG - A04aefpuv - Setting requesttypedescriptions.
+30-11-2023 12:24:03 UTC - DEBUG - A04aefpuv - Setting filter.
+30-11-2023 12:24:03 UTC - INFO - A04aefpuv - Starting request.
+30-11-2023 12:24:03 UTC - DEBUG - A04aefpuv - Starting encoding.
+30-11-2023 12:24:03 UTC - DEBUG - A04aefpuv - Instance of \Securetrading\Stpp\JsonInterface\Request detected.
+30-11-2023 12:24:03 UTC - DEBUG - A04aefpuv - Finished encoding.
+30-11-2023 12:24:03 UTC - INFO - A04aefpuv - Beginning HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 12:24:04 UTC - INFO - A04aefpuv - Finished HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 12:24:04 UTC - DEBUG - A04aefpuv - Starting decoding.
+30-11-2023 12:24:04 UTC - DEBUG - A04aefpuv - Setting requestreference.
+30-11-2023 12:24:04 UTC - DEBUG - A04aefpuv - Setting version.
+30-11-2023 12:24:04 UTC - DEBUG - A04aefpuv - Setting responses.
+30-11-2023 12:24:04 UTC - DEBUG - A04aefpuv - Finished decoding.
+30-11-2023 12:24:04 UTC - INFO - A04aefpuv - Finished request.
+30-11-2023 13:59:09 UTC - DEBUG - A1enrtuwy - Setting requestreference.
+30-11-2023 13:59:09 UTC - DEBUG - A1enrtuwy - Setting requesttypedescriptions.
+30-11-2023 13:59:09 UTC - DEBUG - A1enrtuwy - Setting filter.
+30-11-2023 13:59:09 UTC - INFO - A1enrtuwy - Starting request.
+30-11-2023 13:59:09 UTC - DEBUG - A1enrtuwy - Starting encoding.
+30-11-2023 13:59:09 UTC - DEBUG - A1enrtuwy - Instance of \Securetrading\Stpp\JsonInterface\Request detected.
+30-11-2023 13:59:09 UTC - DEBUG - A1enrtuwy - Finished encoding.
+30-11-2023 13:59:09 UTC - INFO - A1enrtuwy - Beginning HTTP request to https://webservices.securetrading.us/json/.
+30-11-2023 13:59:11 UTC - INFO - A1enrtuwy - Finished HTTP request to https://webservices.securetrading.us/json/.
+30-11-2023 13:59:11 UTC - DEBUG - A1enrtuwy - Starting decoding.
+30-11-2023 13:59:11 UTC - DEBUG - A1enrtuwy - Setting requestreference.
+30-11-2023 13:59:11 UTC - DEBUG - A1enrtuwy - Setting version.
+30-11-2023 13:59:11 UTC - DEBUG - A1enrtuwy - Setting responses.
+30-11-2023 13:59:11 UTC - DEBUG - A1enrtuwy - Finished decoding.
+30-11-2023 13:59:11 UTC - INFO - A1enrtuwy - Finished request.
+30-11-2023 14:00:47 UTC - DEBUG - A569cdnqv - Setting requestreference.
+30-11-2023 14:00:47 UTC - DEBUG - A569cdnqv - Setting requesttypedescriptions.
+30-11-2023 14:00:47 UTC - DEBUG - A569cdnqv - Setting sitereference.
+30-11-2023 14:00:47 UTC - DEBUG - A569cdnqv - Setting parenttransactionreference.
+30-11-2023 14:00:47 UTC - DEBUG - A569cdnqv - Setting baseamount.
+30-11-2023 14:00:47 UTC - INFO - A569cdnqv - Starting request.
+30-11-2023 14:00:47 UTC - DEBUG - A569cdnqv - Starting encoding.
+30-11-2023 14:00:47 UTC - DEBUG - A569cdnqv - Instance of \Securetrading\Stpp\JsonInterface\Request detected.
+30-11-2023 14:00:47 UTC - DEBUG - A569cdnqv - Finished encoding.
+30-11-2023 14:00:47 UTC - INFO - A569cdnqv - Beginning HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 14:00:48 UTC - INFO - A569cdnqv - Finished HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 14:00:48 UTC - ALERT - A569cdnqv - Exception of type Securetrading\Stpp\JsonInterface\HttpException caught with code 3 in /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/vendor/securetrading/stpp_json/src/Http.php on line 50: "HTTP code 401.".
+30-11-2023 14:00:48 UTC - ALERT - A569cdnqv - Securetrading\Stpp\JsonInterface\HttpException: HTTP code 401. in /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/vendor/securetrading/stpp_json/src/Http.php:50
+Stack trace:
+#0 /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/vendor/securetrading/stpp_json/src/Api.php(28): Securetrading\Stpp\JsonInterface\Http->send()
+#1 /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/includes/class-securetrading-helper.php(1151): Securetrading\Stpp\JsonInterface\Api->process()
+#2 /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/includes/class-securetrading-api-form.php(673): WC_SecureTrading_Helper->helper_process_refund()
+#3 /mnt/remote/trustpayment/public_html/wp-content/plugins/woocommerce/includes/wc-order-functions.php(708): WC_SecureTrading_API_Gateway->process_refund()
+#4 /mnt/remote/trustpayment/public_html/wp-content/plugins/woocommerce/includes/wc-order-functions.php(624): wc_refund_payment()
+#5 /mnt/remote/trustpayment/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(2199): wc_create_refund()
+#6 /mnt/remote/trustpayment/public_html/wp-includes/class-wp-hook.php(324): WC_AJAX::refund_line_items()
+#7 /mnt/remote/trustpayment/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /mnt/remote/trustpayment/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /mnt/remote/trustpayment/public_html/wp-admin/admin-ajax.php(188): do_action()
+#10 {main}
+30-11-2023 14:00:48 UTC - DEBUG - A569cdnqv - Setting requestreference.
+30-11-2023 14:00:48 UTC - DEBUG - A569cdnqv - Setting responses.
+30-11-2023 14:00:48 UTC - INFO - A569cdnqv - Finished request.
+30-11-2023 14:01:19 UTC - DEBUG - A178dhjmy - Setting requestreference.
+30-11-2023 14:01:19 UTC - DEBUG - A178dhjmy - Setting requesttypedescriptions.
+30-11-2023 14:01:19 UTC - DEBUG - A178dhjmy - Setting sitereference.
+30-11-2023 14:01:19 UTC - DEBUG - A178dhjmy - Setting parenttransactionreference.
+30-11-2023 14:01:19 UTC - DEBUG - A178dhjmy - Setting baseamount.
+30-11-2023 14:01:19 UTC - INFO - A178dhjmy - Starting request.
+30-11-2023 14:01:19 UTC - DEBUG - A178dhjmy - Starting encoding.
+30-11-2023 14:01:19 UTC - DEBUG - A178dhjmy - Instance of \Securetrading\Stpp\JsonInterface\Request detected.
+30-11-2023 14:01:19 UTC - DEBUG - A178dhjmy - Finished encoding.
+30-11-2023 14:01:19 UTC - INFO - A178dhjmy - Beginning HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 14:01:19 UTC - INFO - A178dhjmy - Finished HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 14:01:19 UTC - ALERT - A178dhjmy - Exception of type Securetrading\Stpp\JsonInterface\HttpException caught with code 3 in /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/vendor/securetrading/stpp_json/src/Http.php on line 50: "HTTP code 401.".
+30-11-2023 14:01:19 UTC - ALERT - A178dhjmy - Securetrading\Stpp\JsonInterface\HttpException: HTTP code 401. in /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/vendor/securetrading/stpp_json/src/Http.php:50
+Stack trace:
+#0 /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/vendor/securetrading/stpp_json/src/Api.php(28): Securetrading\Stpp\JsonInterface\Http->send()
+#1 /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/includes/class-securetrading-helper.php(1151): Securetrading\Stpp\JsonInterface\Api->process()
+#2 /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/includes/class-securetrading-api-form.php(673): WC_SecureTrading_Helper->helper_process_refund()
+#3 /mnt/remote/trustpayment/public_html/wp-content/plugins/woocommerce/includes/wc-order-functions.php(708): WC_SecureTrading_API_Gateway->process_refund()
+#4 /mnt/remote/trustpayment/public_html/wp-content/plugins/woocommerce/includes/wc-order-functions.php(624): wc_refund_payment()
+#5 /mnt/remote/trustpayment/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(2199): wc_create_refund()
+#6 /mnt/remote/trustpayment/public_html/wp-includes/class-wp-hook.php(324): WC_AJAX::refund_line_items()
+#7 /mnt/remote/trustpayment/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#8 /mnt/remote/trustpayment/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /mnt/remote/trustpayment/public_html/wp-admin/admin-ajax.php(188): do_action()
+#10 {main}
+30-11-2023 14:01:19 UTC - DEBUG - A178dhjmy - Setting requestreference.
+30-11-2023 14:01:19 UTC - DEBUG - A178dhjmy - Setting responses.
+30-11-2023 14:01:19 UTC - INFO - A178dhjmy - Finished request.
+30-11-2023 14:02:28 UTC - DEBUG - A5egkmpwx - Setting requestreference.
+30-11-2023 14:02:28 UTC - DEBUG - A5egkmpwx - Setting requesttypedescriptions.
+30-11-2023 14:02:28 UTC - DEBUG - A5egkmpwx - Setting filter.
+30-11-2023 14:02:28 UTC - DEBUG - A5egkmpwx - Setting updates.
+30-11-2023 14:02:28 UTC - INFO - A5egkmpwx - Starting request.
+30-11-2023 14:02:28 UTC - DEBUG - A5egkmpwx - Starting encoding.
+30-11-2023 14:02:28 UTC - DEBUG - A5egkmpwx - Instance of \Securetrading\Stpp\JsonInterface\Request detected.
+30-11-2023 14:02:28 UTC - DEBUG - A5egkmpwx - Finished encoding.
+30-11-2023 14:02:28 UTC - INFO - A5egkmpwx - Beginning HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 14:02:29 UTC - INFO - A5egkmpwx - Finished HTTP request to https://webservices.securetrading.net/json/.
+30-11-2023 14:02:29 UTC - ALERT - A5egkmpwx - Exception of type Securetrading\Stpp\JsonInterface\HttpException caught with code 3 in /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/vendor/securetrading/stpp_json/src/Http.php on line 50: "HTTP code 401.".
+30-11-2023 14:02:29 UTC - ALERT - A5egkmpwx - Securetrading\Stpp\JsonInterface\HttpException: HTTP code 401. in /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/vendor/securetrading/stpp_json/src/Http.php:50
+Stack trace:
+#0 /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/vendor/securetrading/stpp_json/src/Api.php(28): Securetrading\Stpp\JsonInterface\Http->send()
+#1 /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/includes/class-securetrading-helper.php(964): Securetrading\Stpp\JsonInterface\Api->process()
+#2 /mnt/remote/trustpayment/public_html/wp-content/plugins/woo-securetrading-whitelabel/includes/class-securetrading-api-form.php(649): WC_SecureTrading_Helper->mgn_helper_cancel_order()
+#3 /mnt/remote/trustpayment/public_html/wp-includes/class-wp-hook.php(324): WC_SecureTrading_API_Gateway->mgn_process_admin_cancel_order()
+#4 /mnt/remote/trustpayment/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /mnt/remote/trustpayment/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /mnt/remote/trustpayment/public_html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-actions.php(173): do_action()
+#7 /mnt/remote/trustpayment/public_html/wp-includes/class-wp-hook.php(324): WC_Meta_Box_Order_Actions::save()
+#8 /mnt/remote/trustpayment/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /mnt/remote/trustpayment/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /mnt/remote/trustpayment/public_html/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-meta-boxes.php(263): do_action()
+#11 /mnt/remote/trustpayment/public_html/wp-includes/class-wp-hook.php(326): WC_Admin_Meta_Boxes->save_meta_boxes()
+#12 /mnt/remote/trustpayment/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /mnt/remote/trustpayment/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#14 /mnt/remote/trustpayment/public_html/wp-includes/post.php(4760): do_action()
+#15 /mnt/remote/trustpayment/public_html/wp-includes/post.php(4862): wp_insert_post()
+#16 /mnt/remote/trustpayment/public_html/wp-admin/includes/post.php(453): wp_update_post()
+#17 /mnt/remote/trustpayment/public_html/wp-admin/post.php(227): edit_post()
+#18 {main}
+30-11-2023 14:02:29 UTC - DEBUG - A5egkmpwx - Setting requestreference.
+30-11-2023 14:02:29 UTC - DEBUG - A5egkmpwx - Setting responses.
+30-11-2023 14:02:29 UTC - INFO - A5egkmpwx - Finished request.

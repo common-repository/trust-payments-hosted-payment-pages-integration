@@ -1,0 +1,40 @@
+.st-card_form {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.st-card_form .st-card-number *,
+.st-card_form .st-expiration-date *,
+.st-card_form .st-security-code * {
+    max-height: 70px;
+}
+
+.st-card_form .st-card-number,
+.st-card_form .st-card-number *,
+.st-card_form .st-expiration-date *,
+.st-card_form .st-security-code * {
+    width: 100%;
+}
+
+.st-card_form .st-expiration-date,
+.st-card_form .st-security-code {
+    min-width: 48%;
+    width: 48%;
+}
+
+.st-card_form.pay-save-card {
+    flex-direction: row-reverse;
+}
+
+.st-card_form.pay-save-card .st-security-code {
+    min-width: 50%;
+    width: 50%;
+}
+
+#gpay_place_order,
+#paypal_place_order,
+#apple_place_order {
+    width: 100%;
+}

@@ -1,0 +1,132 @@
+.or-line {
+    margin: 10px 0 0; text-align: center
+}
+
+.gateway-button {
+    background-color: transparent !important;
+    padding: 0;
+    font-size: 0 !important;
+}
+
+.gateway-button button,
+.gateway-button a {
+    width: 100% !important;
+}
+
+.gpay-inner,
+.apple-inner {
+    position: relative;
+}
+
+.gpay-inner .button,
+.apple-inner .button {
+    background-color: transparent !important;
+    padding: 0;
+    font-size: 0 !important;
+}
+
+.gpay-inner .button::before,
+.apple-inner .button::before {
+    display: none !important;
+}
+
+.gpay-inner .button > div,
+.apple-inner .button > div {
+    width: 100%;
+    height: 100%;
+    line-height: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*.st-gpay-loading,*/
+/*.st-apple-loading {*/
+/*    position: absolute;*/
+/*    bottom: 0;*/
+/*    left: 0;*/
+/*}*/
+
+#gpay_place_order,
+#paypal_place_order,
+#apple_place_order {
+    position: relative;
+}
+
+.test-label {
+    background-color: rgba(36, 118, 89, 1);
+    color: #fff;
+    font-size: 13px;
+    padding: 2px 5px;
+    line-height: 1.3;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    position: absolute;
+    z-index: 10;
+    top: -10px;
+    right: 5px;
+}
+
+.paypal-buy-now-button {
+    display: inline-flex !important;
+    background-color: #ffc439 !important;
+    border-radius: 5px !important;
+    -webkit-border-radius: 5px !important;
+    -moz-border-radius: 5px !important;
+    -o-border-radius: 5px !important;
+    box-shadow: inset 0 1px 0 0 #ffd699;
+    -o-box-shadow: inset 0 1px 0 0 #ffd699;
+    -moz-box-shadow: inset 0 1px 0 0 #ffd699;
+    -webkit-box-shadow: inset 0 1px 0 0 #ffd699;
+    font-size: 12px !important;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 0;
+    border: 0 !important;
+}
+
+.paypal-buy-now-button:before {
+    content: "";
+    position: absolute;
+    top: -1px;
+    bottom: -1px;
+    left: -1px;
+    right: -1px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -o-border-radius: 4px;
+    background-color: #ffc439;
+    z-index: 1;
+}
+
+.paypal-buy-now-button:after {
+    content: "";
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -o-border-radius: 4px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #ffc439;
+    box-shadow: inset 0 1px 0 0 #ffd699;
+    -webkit-border-radius: inset 0 1px 0 0 #ffd699;
+    -moz-box-shadow: inset 0 1px 0 0 #ffd699;
+    -o-border-radius: inset 0 1px 0 0 #ffd699;
+    z-index: 1;
+}
+
+.paypal-buy-now-button span:not(.test-label) {
+    padding-right: 10px;
+    z-index: 2;
+    font-size: 15px;
+}
+
+.paypal-buy-now-button svg {
+    z-index: 2;
+}

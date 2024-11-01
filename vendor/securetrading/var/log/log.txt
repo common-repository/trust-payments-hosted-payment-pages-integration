@@ -1,0 +1,30 @@
+01-12-2023 15:25:01 UTC - DEBUG - A56bghjqy - Setting requestreference.
+01-12-2023 15:25:01 UTC - DEBUG - A56bghjqy - Setting requesttypedescriptions.
+01-12-2023 15:25:01 UTC - DEBUG - A56bghjqy - Setting filter.
+01-12-2023 15:25:01 UTC - INFO - A56bghjqy - Starting request.
+01-12-2023 15:25:01 UTC - DEBUG - A56bghjqy - Starting encoding.
+01-12-2023 15:25:01 UTC - DEBUG - A56bghjqy - Instance of \Securetrading\Stpp\JsonInterface\Request detected.
+01-12-2023 15:25:01 UTC - DEBUG - A56bghjqy - Finished encoding.
+01-12-2023 15:25:01 UTC - INFO - A56bghjqy - Beginning HTTP request to https://webservices.securetrading.net/json/.
+01-12-2023 15:25:02 UTC - INFO - A56bghjqy - Finished HTTP request to https://webservices.securetrading.net/json/.
+01-12-2023 15:25:02 UTC - DEBUG - A56bghjqy - Starting decoding.
+01-12-2023 15:25:02 UTC - DEBUG - A56bghjqy - Setting requestreference.
+01-12-2023 15:25:02 UTC - DEBUG - A56bghjqy - Setting version.
+01-12-2023 15:25:02 UTC - DEBUG - A56bghjqy - Setting responses.
+01-12-2023 15:25:02 UTC - DEBUG - A56bghjqy - Finished decoding.
+01-12-2023 15:25:02 UTC - INFO - A56bghjqy - Finished request.
+01-12-2023 15:26:31 UTC - DEBUG - A12fhjknx - Setting requestreference.
+01-12-2023 15:26:31 UTC - DEBUG - A12fhjknx - Setting requesttypedescriptions.
+01-12-2023 15:26:31 UTC - DEBUG - A12fhjknx - Setting filter.
+01-12-2023 15:26:31 UTC - INFO - A12fhjknx - Starting request.
+01-12-2023 15:26:31 UTC - DEBUG - A12fhjknx - Starting encoding.
+01-12-2023 15:26:31 UTC - DEBUG - A12fhjknx - Instance of \Securetrading\Stpp\JsonInterface\Request detected.
+01-12-2023 15:26:31 UTC - DEBUG - A12fhjknx - Finished encoding.
+01-12-2023 15:26:31 UTC - INFO - A12fhjknx - Beginning HTTP request to https://webservices.securetrading.net/json/.
+01-12-2023 15:26:32 UTC - INFO - A12fhjknx - Finished HTTP request to https://webservices.securetrading.net/json/.
+01-12-2023 15:26:32 UTC - DEBUG - A12fhjknx - Starting decoding.
+01-12-2023 15:26:32 UTC - DEBUG - A12fhjknx - Setting requestreference.
+01-12-2023 15:26:32 UTC - DEBUG - A12fhjknx - Setting version.
+01-12-2023 15:26:32 UTC - DEBUG - A12fhjknx - Setting responses.
+01-12-2023 15:26:32 UTC - DEBUG - A12fhjknx - Finished decoding.
+01-12-2023 15:26:32 UTC - INFO - A12fhjknx - Finished request.

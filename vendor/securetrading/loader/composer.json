@@ -1,0 +1,17 @@
+{
+  "name" : "securetrading/loader",
+  "version" : "2.0.1",
+  "description" : "Secure Trading's Loader package.",
+  "license" : "MIT",
+  "require" : {
+    "php" : "^7.3 || ^8.0"
+  },
+  "require-dev" : {
+    "securetrading/unittest" : "^3.0"
+  },
+  "autoload" : {
+    "psr-4" : {
+      "Securetrading\\Loader\\" : "src/"
+    }
+  }
+}
